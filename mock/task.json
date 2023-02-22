@@ -1,0 +1,37 @@
+{
+    "bg": {
+        "type": "video",
+        "url": "bgv.mp4",
+        "bgm":"bgm.mp3"
+    },
+    "subtitles":[
+        {
+            "text":"泰国原装进口"
+        },
+        {
+            "text":"百分百椰子水"
+        },
+        {
+            "text":"清爽口感 席卷夏日"
+        },
+        {
+            "text":"新鲜到家 即刻享受"
+        }
+    ],
+    "scripts": [
+  
+        {
+            "url": "l1.json"
+        },
+        {
+            "url": "l2.json",
+            "change": [
+                {
+                    "type": "text",
+                    "text": "很好喝的 泰国椰子水",
+                     "path": "6"
+                }
+            ]
+        }
+    ]
+}
